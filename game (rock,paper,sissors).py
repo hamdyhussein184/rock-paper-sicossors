@@ -1,3 +1,4 @@
+#try git diff
 #ask the user to enter his move (r,p,s)
 #pc choose move randomly
 #player == pc is a tie
