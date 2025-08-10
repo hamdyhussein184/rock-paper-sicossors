@@ -1,3 +1,4 @@
+#welcome my freind
 #try git diff
 #ask the user to enter his move (r,p,s)
 #pc choose move randomly
